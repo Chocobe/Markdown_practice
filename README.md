@@ -10,3 +10,7 @@ Normal font
 *Italic font*
 
 _Italic font_
+
+**bord font**
+
+__bord font__
