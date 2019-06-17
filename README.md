@@ -4,3 +4,6 @@
 #### Markdown practice H4
 ##### Markdown practice H5
 ###### Markdown practice H6
+
+*Italic font*
+_Italic font_
