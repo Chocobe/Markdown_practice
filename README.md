@@ -5,5 +5,8 @@
 ##### Markdown practice H5
 ###### Markdown practice H6
 
+Normal font
+
 *Italic font*
+
 _Italic font_
