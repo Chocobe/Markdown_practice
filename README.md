@@ -3,7 +3,7 @@
 >
 >   [마크다운 에디터](https://jbt.github.io/markdown-editor "마크다운 에디터")
 >
->   Emoji shortcut : **ctrl + .**
+>   Emoji shortcut : **win + .**
 
 # Markdown practice H1
 ## Markdown practice H2
