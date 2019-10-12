@@ -1,5 +1,5 @@
-# [마크다운 참고 페이지](https://gist.github.com/ihoneymon/652be052a0727ad59601, "마크다운 참고 페이지")
-# [테스트](https://github.com/Chocobe, "초코비")
+# [마크다운 참고 페이지](https://gist.github.com/ihoneymon/652be052a0727ad59601 "마크다운 참고 페이지")
+# [테스트](https://github.com/Chocobe "초코비")
 
 # Markdown practice H1
 ## Markdown practice H2
