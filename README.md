@@ -1,5 +1,9 @@
-# [마크다운 참고 페이지](https://gist.github.com/ihoneymon/652be052a0727ad59601 "마크다운 참고 페이지")
-# [테스트](https://github.com/Chocobe "초코비")
+# Markdown 참고 페이지
+>   [마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601 "마크다운 문법")
+>
+>   [마크다운 에디터](https://jbt.github.io/markdown-editor "마크다운 에디터")
+>
+>   Emoji shortcut : **ctrl + .**
 
 # Markdown practice H1
 ## Markdown practice H2
